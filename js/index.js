@@ -13,9 +13,9 @@ tags = [
     ["Stuck","Get","Solution Here"]
 ]
 tagImages = [
-    "../media/images/clipart1.png",
-    "../media/images/clipart2.png",
-    "../media/images/clipart3.png"
+    "./media/images/clipart1.png",
+    "./media/images/clipart2.png",
+    "./media/images/clipart3.png"
 ]
 i = 1
 display = () => {
